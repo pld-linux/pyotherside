@@ -7,7 +7,7 @@ Summary:	Asynchronous Python 3 Bindings for Qt 5 and Qt 6
 Summary(pl.UTF-8):	Asynchroniczne wiązania Pythona 3 dla Qt 5 i Qt 6
 Name:		pyotherside
 Version:	1.6.0
-Release:	1
+Release:	2
 License:	MIT
 Group:		Libraries
 #Source0Download: https://github.com/thp/pyotherside/tags
